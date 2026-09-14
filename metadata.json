@@ -1,0 +1,6 @@
+{
+  "name": "Leela Builders & Developers",
+  "description": "Bespoke luxury real estate agency presenting ultra-prime residences, sky mansions, and private estates across Mumbai, Bangalore, Gurgaon, Pune, Surat, and Goa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
